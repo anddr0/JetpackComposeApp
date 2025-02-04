@@ -7,7 +7,8 @@ In the app, users can manage animal records (adding new entries, deleting, or ed
 
 ### Main screen
 On the main screen, the user sees preset data and an image
-![Screenshot_20250204_133633_Animal Inspector](https://github.com/user-attachments/assets/d690055f-4272-44a1-a011-e5ad548a9f26)
+<img src="https://github.com/user-attachments/assets/d690055f-4272-44a1-a011-e5ad548a9f26" alt="Main screen" width="500" height="1000">
+
 
 ### Animal's screen
 On the animals screen, the user can add, edit, and delete animals from their local database
