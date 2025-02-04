@@ -6,7 +6,8 @@ In the app, users can manage animal records (adding new entries, deleting, or ed
 # Presentation
 
 ### Main screen
-On the main screen, the user sees preset data and an image
+On the main screen, the user sees preset data and an image.
+
 <img src="https://github.com/user-attachments/assets/d690055f-4272-44a1-a011-e5ad548a9f26" alt="Main screen" width="250" height="500">
 
 ### Animal's screen
